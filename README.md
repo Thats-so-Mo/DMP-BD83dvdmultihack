@@ -1,5 +1,4 @@
-# DMP-BD83dvdmultihack
-DVD Multi Region on my Panasonic Blu-ray Player by using a Android Phone
+# Unlocking DVD Multi Region on my Panasonic Blu-ray Player by using a Samsung Galaxy S5
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/s8Sd6EGNNaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 This hack is ONLY TO UNLOCK DVD MULTI REGION, FOR ME, BLU-RAY IS STILL LOCKED.
