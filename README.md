@@ -1,6 +1,7 @@
 # Unlocking DVD Multi Region on my Panasonic Blu-ray Player by using a Samsung Galaxy S5
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/s8Sd6EGNNaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/s8Sd6EGNNaU/0.jpg)](https://www.youtube.com/watch?v=s8Sd6EGNNaU)
+
 This hack is ONLY TO UNLOCK DVD MULTI REGION, FOR ME, BLU-RAY IS STILL LOCKED.
 
 I have bestowed my Panasonic DMP-BD83 Blu-Ray player the ability to play any DVD, regardless its region (Multi Region DVD Hack). By using a Samsung Galaxy S5, IRPlus App and some infrared codes, I was able to get my Blu-Ray player to read a Region 2 DVD (player's original region is 4). 
